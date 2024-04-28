@@ -35,8 +35,8 @@ Contributions to the "Two Truths and a Lie" game Slack bot project are welcome! 
 
 ## Project Team
 
-Project Lead and Main Developer : Manpreet Singh
-Developer : Rishu Raj
-Developer : Satyam Sinha
+- **Project Lead and Main Developer:** Manpreet Singh
+- **Developer:** Rishu Raj
+- **Developer:** Satyam Sinha
 
 ---
